@@ -1,4 +1,4 @@
-# NLP Text Classification with Quantum Machine Learning
+# NLP Text Classification with Quantum Machine Learning (~ Quantum NLP) 
 
 This project implements Natural Language Processing (NLP) text classification using both classical machine learning (ML) and quantum machine learning (QML) techniques. The goal is to demonstrate a hybrid approach that combines the strengths of classical and quantum models for better performance.
 
